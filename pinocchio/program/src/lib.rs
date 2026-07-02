@@ -7,6 +7,7 @@
 mod batch;
 mod create;
 mod entrypoint;
+mod error;
 mod processor;
 mod recover;
 mod size;
